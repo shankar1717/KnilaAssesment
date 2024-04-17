@@ -1,0 +1,57 @@
+2023-11-22 15:35:39,104 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 15:35:42,228 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 15:35:42,404 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 15:37:03,203 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before Merging
+2023-11-22 15:38:28,815 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 15:38:32,539 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 15:38:32,713 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 15:39:53,553 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before Merging
+2023-11-22 15:43:58,066 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 15:44:01,656 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 15:44:01,814 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 15:45:24,753 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before Merging
+2023-11-22 16:05:34,263 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 16:05:35,250 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 16:05:37,855 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 16:05:56,677 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before Merging
+2023-11-22 16:07:46,682 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 16:07:49,761 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 16:07:49,932 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 16:09:10,654 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before Merging
+2023-11-22 16:10:57,918 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 16:10:58,812 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 16:11:01,248 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 20:38:25,951 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 20:38:37,556 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 20:38:37,809 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 21:36:17,550 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 21:36:29,033 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 21:36:29,256 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 21:37:50,083 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before Merging
+2023-11-22 21:51:39,404 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 21:51:53,016 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 21:51:53,263 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 21:51:55,794 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: userLogin
+2023-11-22 21:52:00,494 [main] INFO com.qa.test.HealthcareApplicationTest - Login sucessfull
+2023-11-22 21:54:29,390 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 21:54:39,632 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 21:54:39,877 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 21:54:42,451 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: userLogin
+2023-11-22 21:54:46,372 [main] INFO com.qa.test.HealthcareApplicationTest - Login sucessfull
+2023-11-22 21:54:46,425 [main] INFO com.qa.test.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-22 21:54:46,660 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: dashboard
+2023-11-22 21:55:23,755 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 21:55:36,118 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 21:55:36,369 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 21:56:57,933 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: userLogin
+2023-11-22 21:57:01,165 [main] INFO com.qa.test.HealthcareApplicationTest - Login sucessfull
+2023-11-22 21:57:33,103 [main] INFO com.qa.test.HealthcareApplicationTest - Dashboard page is Displayed
+2023-11-22 21:57:33,332 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: dashboard
+2023-11-22 22:07:43,874 [main] INFO com.qa.test.HealthcareApplicationTest - Test Starts
+2023-11-22 22:07:57,500 [main] INFO com.qa.test.HealthcareApplicationTest - Webpage Launched
+2023-11-22 22:07:57,739 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: Before userLogin
+2023-11-22 22:08:00,243 [main] INFO com.qa.test.HealthcareApplicationTest -     Screenshot captured: userLogin
+2023-11-22 22:08:04,373 [main] INFO com.qa.test.HealthcareApplicationTest - Login sucessfull
+2024-02-08 10:26:15,620 [main] INFO com.qa.test.TestLogger - Logged into Myntra
+2024-02-08 10:26:15,712 [main] INFO com.qa.test.TestLogger - true
+2024-02-08 10:26:16,013 [main] INFO com.qa.test.TestLogger - Quitting the driver
